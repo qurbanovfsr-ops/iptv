@@ -1,0 +1,161 @@
+EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Azerbaijan Channels" logo="https://i.imgur.com/mtvIFyq.png", ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Azerbaijan Channels" logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png", Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="15.СНГ ♻️", ARB HD (AZ)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="15.СНГ ♻️" logo="https://i.imgur.com/dSg7KUK.png", ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="15.СНГ ♻️", Dunya TV (AZ)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0 type="stream" channelId="825" group="15.СНГ ♻️" logo="https://iptvx.one/picons/ictimai-tv.png", Ictimai TV (AZ)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:0 type="stream" channelId="1407" group="15.СНГ ♻️" logo="https://i.imgur.com/ufvVQJH.png", Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="15.СНГ ♻️" logo="http://img.vintera.tv/img/ico/livetvaz.png", LIVETV SD (AZ) ru
+http://tv.mobyservice.ru/livetv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:0 type="stream" channelId="927" group="15.СНГ ♻️", EL TV (AZ)
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="4" group="Спортивные" logo="https://iptvx.one/picons/match-tv.png", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1044" group="Turkish Channels", KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4003" group="Turkish Channels", ATV HD TR
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="-1" group="Федеральные" logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg", Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 type="stream" channelId="203" group="Федеральные", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Познавательные", National Geographic
+http://185.164.82.18:9010/ykMHqK_NatGeo
+#EXTINF:0 type="stream" channelId="-1" group="Знания", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="5170" group="Кино", Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:0 type="stream" channelId="-1" group="Кино", Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0 type="stream" channelId="342" group="Кино", Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="312" group="Кино", Мир сериала
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:0 type="stream" channelId="498" group="Федеральные", НТВ HD
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1104" group="Новостные", Известия HD
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0 type="stream" channelId="589" group="Новостные", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="331" group="Новостные", CGTN Русский
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Новостные", ЛДПР ТВ HD
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3976" group="Russian Channels", 360 НОВОСТИ
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:0 type="stream" channelId="270" group="Кино и сериалы", Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Turkish Channels", Akit TV HD TR
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные" logo="http://rafail1982.uz/logo/CBC Sport.png", CBC Sport
+http://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:0 type="stream" channelId="553" group="Спортивные" logo="http://rafail1982.uz/logo/Матч! Футбол 1 HD.png", Матч! Футбол 1 HD
+http://46.151.151.250:9114
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные" logo="http://rafail1982.uz/logo/Megogo Футбол 4 HD.png", Megogo Футбол 4 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные", SETANTA SPORT 2 HD
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:0 type="stream" channelId="277" name="Матч Премьер" group="Спортивные", МАТЧ! ПРЕМЬЕР SD
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Кинозал" logo="http://rafail1982.uz/logo/kino2.png", Кинозалы 8
+http://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Кинозал" logo="http://rafail1982.uz/logo/kino2.png", Кинозалы 20
+http://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Кинозал" logo="http://rafail1982.uz/logo/kino2.png", Кинозалы 29
+http://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Кинозал" logo="http://rafail1982.uz/logo/kino2.png", Кинозалы 36
+http://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:0 type="stream" channelId="79" group="Фильмовые" logo="http://rafail1982.uz/logo/Еврокино.png", Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:0 type="stream" channelId="415" group="37.МАТЧ ⚾", МАТЧ! ФУТБОЛ 2 SD
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="553" name="Матч! Футбол 1 HD" group="37.МАТЧ ⚾", МАТЧ! ФУТБОЛ 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="553" group="Спортивные" logo="http://rafail1982.uz/logo/Матч! Футбол 1 HD.png", Матч! Футбол 1 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Российские" logo="http://rafail1982.uz/logo/russia.png", Aris 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3135" group="Музыкальные", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные", Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные", CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:0 type="stream" channelId="299" group="Познавательные" logo="http://rafail1982.uz/logo/Зоо ТВ.png", Зоо ТВ
+http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:0 type="stream" channelId="2179" group="Azerbaijan Channels", STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 type="stream" channelId="190" group="Кино и сериалы" logo="https://iptvx.one/picons/illuzion-plus.png", Иллюзион+
+http://31.148.48.15:80/Illusion_plus/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Azerbaijan Channels" logo="https://i.imgur.com/m6CM7VU.png", Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Региональные", Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="925", Первый музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Movie Smart Action TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6812/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", S Sport 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6825/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Global Haber TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6928/index.m3u8
+#EXTINF:0 type="favorites" channelId="3922" group="Федеральные", Победа
+http://193.25.8.59:8000/tochka
+#EXTINF:0 type="favorites" channelId="1761" group="Музыка", Первый музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:0 type="favorites" channelId="-1", beIN Movies Action HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6877/index.m3u8
+#EXTINF:0 type="favorites" channelId="978", DMAX
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2290/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", DMAX HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2300/index.m3u8
+#EXTINF:0 type="favorites" channelId="3363", TV 4 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2321/index.m3u8
+#EXTINF:0 type="favorites" channelId="413" group="Кино и сериалы", Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:0 type="favorites" channelId="194" group="Кино и сериалы", Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:0 type="favorites" channelId="316" group="Кино и сериалы", Родное Кино
+http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:0 type="favorites" channelId="410" group="Russian Channels", Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:0 type="favorites" channelId="1859" group="Кино и сериалы", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:0 type="favorites" channelId="409" group="Кино", Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:0 type="favorites" channelId="169" group="Кино", Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:0 type="favorites" channelId="168" group="Кино", Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Кинозалы", Мистер Бин
+http://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:0 type="favorites" channelId="4003", ATV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6886/index.m3u8
+#EXTINF:0 type="favorites" channelId="3077", Kanal D HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2304/index.m3u8
+#EXTINF:0 type="favorites" channelId="1056", TRT 1 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2293/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Azerbaijan Channels" logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png", Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="AZE", Kanal S TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ATV Cinema AZ
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2120/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Azerbaijan Channels" logo="https://i.imgur.com/r4FzxSg.png", Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:0 type="favorites" channelId="10" group="Российские" logo="http://rafail1982.uz/logo/Россия 24.png", Россия 24
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Russian Channels", Росcия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:0 type="favorites" channelId="641", Az Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/966/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ARB 24 HD
+dtv://satellite:353/dvb/1
