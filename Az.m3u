@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxv_U_Vv3b_D3x6R-S2pY9mE5CjC-3v5xO_6w=s900-c-k-c0xffffffff-no-rj-mo" group-title="AZERBAIJAN",Xazar TV HD
+https://itv.asoiu.edu.az/xezer/xezer.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Aztv_logo.png" group-title="AZERBAIJAN",AzTV HD
+https://itv.asoiu.edu.az/aztv/aztv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyS5V7zS3CjCj_xS-3-vS8-C-S-G-S-G-S-G=s900-c-k-c0xffffffff-no-rj-mo" group-title="AZERBAIJAN",Ictimai TV HD
+https://itv.asoiu.edu.az/itv/itv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="AZERBAIJAN",CBC Sport HD
+https://shls-cbcs-live.mncdn.com/cbcs/cbcs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwz2V8U_S-Z-S-Z-S-Z-S-Z-S-Z-S-Z-S-Z=s900-c-k-c0xffffffff-no-rj-mo" group-title="AZERBAIJAN",ARB HD
+https://itv.asoiu.edu.az/arb/arb.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz9V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V=s900-c-k-c0xffffffff-no-rj-mo" group-title="AZERBAIJAN",ARB 24 HD
+https://itv.asoiu.edu.az/arb24/arb24.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Real_TV_logo.png" group-title="AZERBAIJAN",Real TV HD
+https://str.yodacdn.net/real/playlist.m3u8
