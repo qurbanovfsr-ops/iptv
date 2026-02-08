@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ATV HD
+https://shls-atv-live.mncdn.com/atv/atv/playlist.m3u8
+#EXTINF:-1,Xezər HD
+https://shls-xezer-live.mncdn.com/xezer/xezer/playlist.m3u8
+#EXTINF:-1,ARB HD
+https://shls-arb-live.mncdn.com/arb/arb/playlist.m3u8
+#EXTINF:-1,CBC Sport HD
+https://shls-cbcs-live.mncdn.com/cbcs/cbcs/playlist.m3u8
+#EXTINF:-1,Real TV HD
+https://str.yodacdn.net/real/playlist.m3u8
+#EXTINF:-1,Space TV
+http://85.132.81.184:8080/space/index.m3u8
