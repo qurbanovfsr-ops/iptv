@@ -1,0 +1,44 @@
+#EXTINF:0,AZTV
+https://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
+#EXTINF:0,AZAD ATV
+https://streams.livetv.az/azerbaijan/atv_sd_stream2/chunks.m3u8
+#EXTINF:0,ICTIMAI
+https://streams.livetv.az/azerbaijan/ictimai_stream2/chunks.m3u8
+#EXTINF:0,XAZAR TV
+https://streams.livetv.az/azerbaijan/xazar_sd_stream2/chunks.m3u8
+#EXTINF:0,LIVE TV AZ
+https://streams.livetv.az/azerbaijan/ruslana/chunks.m3u8
+#EXTINF:0,LIDER TV
+https://streams.livetv.az/azerbaijan/lider_stream/chunks.m3u8
+#EXTINF:0,IDMAN TV
+https://streams.livetv.az/azerbaijan/idman2_stream/chunks.m3u8
+#EXTINF:0,DUNYA TV
+https://streams.livetv.az/azerbaijan/dunya/chunks.m3u8
+#EXTINF:0,Space TV
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:0,Muz TV AZ
+https://streams.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:0,Real TV AZ
+https://streams.livetv.az/azerbaijan/real/chunks.m3u8
+#EXTINF:0,ARB
+https://streams.livetv.az/azerbaijan/arb/chunks.m3u8
+#EXTINF:0,ARB 24
+http://85.132.81.184:8080/arb24/liveStream1/index.m3u8
+#EXTINF:0,CBC AZ
+https://streams.livetv.az/azerbaijan/cbc_stream2/chunks.m3u8
+#EXTINF:0,CBC SPORT
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:0,DALGA TV
+https://streams.livetv.az/azerbaijan/dalga/chunks.m3u8
+#EXTINF:0,INTER AZ
+https://streams.livetv.az/azerbaijan/interaz/chunks.m3u8
+#EXTINF:0,QAFGAZ TV
+https://streams.livetv.az/external/qafqaztv/playlist.m3u8
+#EXTINF:0,NAXCIVAN TV
+http://streams.livetv.az/azerbaijan/naxicevan/playlist.m3u8
+#EXTINF:0,UTVSHOW
+http://win15.yayin.com.tr/utvshow/utvshow/chunklist_w638756051.m3u8
+#EXTINF:0,UMUD TV
+http://94.23.173.130:80/umudtv/smil:umudtv.smil//chunklist.m3u8
+#EXTINF:0,Ses TV 
+http://maksimtv.radyotelekomtv.com:1935/maksimtv/maksimtv/playlist.m3u8
