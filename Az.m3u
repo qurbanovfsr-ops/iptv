@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1,AzTV (7/24)
+https://itv.asoiu.edu.az/aztv/aztv.m3u8
+
+#EXTINF:-1,Ictimai TV (7/24)
+https://itv.asoiu.edu.az/itv/itv.m3u8
+
+#EXTINF:-1,CBC Sport (7/24)
+https://shls-cbcs-live.mncdn.com/cbcs/cbcs/playlist.m3u8
+
+#EXTINF:-1,ARB TV (7/24)
+https://itv.asoiu.edu.az/arb/arb.m3u8
+
+#EXTINF:-1,ARB 24 (7/24)
+https://itv.asoiu.edu.az/arb24/arb24.m3u8
+
+#EXTINF:-1,Xazar TV (7/24)
+https://itv.asoiu.edu.az/xezer/xezer.m3u8
+
+#EXTINF:-1,ATV Azerbaijan (7/24)
+https://shls-atv-live.mncdn.com/atv/atv/playlist.m3u8
+
+#EXTINF:-1,Idman TV (7/24)
+https://itv.asoiu.edu.az/idman/idman.m3u8
+
+#EXTINF:-1,Medeniyyet TV (7/24)
+https://itv.asoiu.edu.az/medeniyyet/medeniyyet.m3u8
+
+#EXTINF:-1,Real TV (7/24)
+https://str.yodacdn.net/real/playlist.m3u8
+
+#EXTINF:-1,Muz TV (7/24)
+https://itv.asoiu.edu.az/muztv/muztv.m3u8
+
+#EXTINF:-1,Space TV (7/24)
+http://85.132.81.184:8080/space/index.m3u8
+
+#EXTINF:-1,CBC Azerbaijan (7/24)
+http://85.132.81.184:8080/cbc/index.m3u8
+
+#EXTINF:-1,Dunya TV (7/24)
+http://85.132.81.184:8080/dunya/index.m3u8
