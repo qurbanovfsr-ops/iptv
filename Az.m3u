@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://i.imgur.com/u0f5F9E.png" group-title="AZERBAIJAN",AzTV HD
+https://shls-aztv-live.mncdn.com/aztv/aztv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ictimai" tvg-logo="https://i.imgur.com/m23M3Uu.png" group-title="AZERBAIJAN",Ictimai TV HD
+https://shls-itv-live.mncdn.com/itv/itv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBCSport" tvg-logo="https://i.imgur.com/8N0vYm8.png" group-title="AZERBAIJAN",CBC Sport HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Idman" tvg-logo="https://i.imgur.com/tZ0BfM7.png" group-title="AZERBAIJAN",Idman TV HD
+https://shls-idman-live.mncdn.com/idman/idman/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/6X9vYvS.png" group-title="AZERBAIJAN",ATV HD
+https://shls-atv-live.mncdn.com/atv/atv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Xezer" tvg-logo="https://i.imgur.com/9wO4iU1.png" group-title="AZERBAIJAN",Xezər TV HD
+https://shls-xezer-live.mncdn.com/xezer/xezer/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARB" tvg-logo="https://i.imgur.com/9uE8X3F.png" group-title="AZERBAIJAN",ARB HD
+https://shls-arb-live.mncdn.com/arb/arb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealTV" tvg-logo="https://i.imgur.com/K5f4L6u.png" group-title="AZERBAIJAN",Real TV HD
+https://str.yodacdn.net/real/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://i.imgur.com/7p6V3R6.png" group-title="AZERBAIJAN",Space TV
+http://85.132.81.184:8080/space/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV" group-title="AZERBAIJAN",Muz TV Azerbaijan
+https://itv.asoiu.edu.az/muztv/muztv.m3u8
