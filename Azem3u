@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a3/Xezer_TV_logo.jpg" group-title="AZERBAIJAN",Xəzər TV HD
+https://itv.asoiu.edu.az/xezer/xezer.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.day.az/2019/09/16/800x550/nload.jpg" group-title="AZERBAIJAN",AzTV HD
+https://itv.asoiu.edu.az/aztv/aztv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" group-title="AZERBAIJAN",Ictimai TV HD
+https://itv.asoiu.edu.az/itv/itv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png" group-title="AZERBAIJAN",Mədəniyyət TV HD
+https://itv.asoiu.edu.az/medeniyyet/medeniyyet.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" group-title="AZERBAIJAN",Idman TV HD
+https://itv.asoiu.edu.az/idman/idman.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="AZERBAIJAN",CBC Sport HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",ATV HD
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://arbtv.az/assets/uploads/events/1.arbtv.png" group-title="AZERBAIJAN",ARB HD
+https://itv.asoiu.edu.az/arb/arb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.azerforum.com/2021/04/01/1516089.jpg" group-title="AZERBAIJAN",ARB Günəş
+http://85.132.81.184:8080/arbgunesh/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="AZERBAIJAN",ARB Kəpəz
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.report.az/photo/c85c27af-571e-4c62-bcd0-161bd89efda2_850.jpg" group-title="AZERBAIJAN",CBC Azerbaijan HD
+http://85.132.81.184:8080/cbc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/dalgatvaz.png" group-title="AZERBAIJAN",Dalğa TV
+http://85.132.81.184:8080/dalga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Space_TV_%282021-h.h.%29.png" group-title="AZERBAIJAN",Space TV
+http://85.132.81.184:8080/space/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="AZERBAIJAN",Dunya TV
+http://85.132.81.184:8080/dunya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/EL_TV_%282020-h.h.%29.png" group-title="AZERBAIJAN",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" group-title="AZERBAIJAN",Muğan TV
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAIJAN",ATV Cinema
+http://85.132.81.184:8080/atv-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/Qebele-TV-izle-vipotv-azerbaycan-.png" group-title="AZERBAIJAN",Qabala TV
+https://qebele.tv/live/stream/1669564512016.ts
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/az-muz-tv-8089-768x576.jpg" group-title="AZERBAIJAN",Muz TV
+https://itv.asoiu.edu.az/muztv/muztv.m3u8
