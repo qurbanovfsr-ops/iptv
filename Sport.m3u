@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [01]
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-1-b273610
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [02]
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [07]
+https://95-213-224-187.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [08]
+http://188.35.9.11:2025
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [10]
+http://astra.realcrimea.net:8000/play/a06a
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 [11]
+http://mytv.fun:8080/v5bqtzaker/oj3hf0zc4o/36898
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [01]
+http://vs-msk-02.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [02]
+http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [08]
+http://tviptv.iptv-channel.ru:8000/live/test/test/85.ts
+#EXTINF:0 group-title="МатчФутбол1", Матч! Футбол 1 HD [09]
+http://astra.realcrimea.net:8000/play/a09t
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [01]
+http://178.217.72.66/225.201.2.100/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [02]
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-2-d5fc7df
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [03]
+http://92.38.127.16:8000/play/a030
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 [07]
+https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [01]
+http://vs-msk-02.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [02]
+http://178.217.72.66/225.201.2.82/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [03]
+http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
+#EXTINF:0 group-title="МатчФутбол2", Матч! Футбол 2 HD [07]
+http://tviptv.iptv-channel.ru:8000/live/test/test/86.ts
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [01]
+http://178.217.72.66/225.201.2.102/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [02]
+http://178.69.23.26:8000/play/36-ntv-match%21-futbol-3-b1f79e5
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [03]
+http://92.38.127.16:8000/play/a031
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [06]
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 [09]
+http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [01]http://vs-msk-02.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [02]http://178.217.72.66/225.201.2.169/tracks-v1a1/mono.m3u8#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [05]http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [06]http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8#EXTINF:0 group-title="МатчФутбол3", Матч! Футбол 3 HD [07]http://tviptv.iptv-channel.ru:8000/live/test/test/87.ts#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [01]http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8#EXTINF:0 group-title="МатчПремьер", Матч! Премьер [02]http://91.103.248.82:81/play/a003 #EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [01]http://178.217.72.66/225.201.2.143/tracks-v1a1/mono.m3u8#EXTINF:0 group-title="МатчПремьер", Матч! Премьер HD [03]http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8 #EXTINF:0 group-title="Матч", Матч! [02]http://vs-msk-02.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8#EXTINF:0 group-title="Матч", Матч! [01]http://178.69.23.26:8000/play/36-ntv-match%21-d649cee#EXTINF:0 group-title="Матч", Матч! [03]http://82.200.127.58:8080/udp/239.0.42.53:1224#EXTINF:0 group-title="Матч", Матч! [04]http://92.38.127.16:8000/play/a037#EXTINF:0 group-title="Матч", Матч! [05]http://82.200.127.58:8080/udp/239.0.14.45:1224#EXTINF:0 group-title="Матч", Матч! [06]http://82.200.127.58:8080/udp/239.0.42.83:1224#EXTINF:0 group-title="Матч", Матч! [07]http://iptv.ktkru.ru:8003/index.m3u8#EXTINF:0 group-title="Матч", Матч! [08]http://82.200.127.58:8080/udp/239.0.23.8:1224#EXTINF:0 group-title="Матч", Матч! [11]http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8#EXTINF:0 group-title="Матч", Матч! [12]http://178.163.56.58:81/udp/234.0.0.204:2000#EXTINF:0 group-title="Матч", Матч! [13]https://ch.iptvmate.net/5e935ac9d3e2460fcd4db847.m3u8#EXTINF:0 group-title="Матч", Матч! [14]http://92.38.127.16:8000/play/a07k#EXTINF:0 group-title="Матч", Матч! [15]http://uiptv.do.am/1ufc/000000003/playlist.m3u8#EXTINF:0 group-title="Матч", Матч! [16]http://iptv.ktkru.ru:8003/index.m3u8#EXTINF:0 group-title="Матч", Матч! [17]http://217.25.226.215:4022/udp/235.1.10.3:10000 #EXTINF:0 group-title="Матч", Матч! HD [01]http://178.217.72.66/225.201.2.72/tracks-v1a1/mono.m3u8#EXTINF:0 group-title="Матч", Матч! HD [03]http://51.15.8.25:25461/YaDpiIV5za/zvdYEzFsAJ/52457?play_token=vykt4a6DsE&token=ShdRVxJZRlwUAAgBAAhcVVNSUF1RVQwFB1ZUAANRCF1TVgoBWQgFAAZ
