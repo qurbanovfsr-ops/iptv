@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Telegram kanalına qoşulun
+https://archive.org/serve/Goytepetv/Goytepetv.mp4
+#EXTINF:-1,AZTV
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,İCTİMAİ TV
+http://erlyvideo.izone.az:80/ictimaitv/mono.m3u8
+#EXTINF:-1,MƏDƏNİYYƏT TV
+http://erlyvideo.izone.az:80/medeniyyet/mono.m3u8
+#EXTINF:-1,ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8
+#EXTINF:-1,XƏZƏR TV
+http://erlyvideo.izone.az:80/xezertv/mono.m3u8
+#EXTINF:-1,SPACE TV
+http://erlyvideo.izone.az:80/spacetv/mono.m3u8
+#EXTINF:-1,ARB TV
+http://erlyvideo.izone.az:80/arb/mono.m3u8
+#EXTINF:-1,ARB 24
+http://erlyvideo.izone.az:80/arb24/mono.m3u8
+#EXTINF:-1,ARB GÜNƏŞ
+http://erlyvideo.izone.az:80/arbgunesh/mono.m3u8
