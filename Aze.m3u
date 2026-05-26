@@ -1,0 +1,29 @@
+#EXTM3U
+x-tvg-url="https://iptv-org.github.io/epg/guides/az/aztv.az.xml"
+
+#EXTINF:0 tvg-id="CBCSport.az" tvg-country="AZ" group-title="Azərbaycan",CBC Sport HD
+https://live.cbcsport.az/cbcsport/index.m3u8
+
+#EXTINF:0 tvg-id="AZTV.az" tvg-country="AZ" group-title="Azərbaycan",AzTV HD
+https://stream.aztv.az/aztv/index.m3u8
+
+#EXTINF:0 tvg-id="IctimaiTV.az" tvg-country="AZ" group-title="Azərbaycan",İctimai TV HD
+https://stream.itv.az/itv/index.m3u8
+
+#EXTINF:0 tvg-id="IdmanTV.az" tvg-country="AZ" group-title="Azərbaycan",İdman TV HD
+https://stream.idmantv.az/idman/index.m3u8
+
+#EXTINF:0 tvg-id="AzadTV.az" tvg-country="AZ" group-title="Azərbaycan",ATV (Azad Azərbaycan)
+https://stream.atv.az/atv/index.m3u8
+
+#EXTINF:0 tvg-id="ARB.az" tvg-country="AZ" group-title="Azərbaycan",ARB TV
+https://stream.arbtv.az/arb/index.m3u8
+
+#EXTINF:0 tvg-id="ARB24.az" tvg-country="AZ" group-title="Azərbaycan",ARB 24
+https://stream.arb24.az/arb24/index.m3u8
+
+#EXTINF:0 tvg-id="XezerTV.az" tvg-country="AZ" group-title="Azərbaycan",Xəzər TV
+https://stream.xezertv.az/xezer/index.m3u8
+
+#EXTINF:0 tvg-id="MedeniyyetTV.az" tvg-country="AZ" group-title="Azərbaycan",Mədəniyyət TV
+https://stream.medeniyyettv.az/medeniyyet/index.m3u8
