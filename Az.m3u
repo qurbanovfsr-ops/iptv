@@ -1,0 +1,29 @@
+#EXTM3U
+x-tvg-url="https://iptv-org.github.io/epg/guides/az/aztv.az.xml"
+
+#EXTINF:0 tvg-id="CBCSport.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/CBCSport.png" group-title="Azərbaycan",CBC Sport HD
+https://live.cbcsport.az/cbcsport/index.m3u8
+
+#EXTINF:0 tvg-id="AZTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/AzTV.png" group-title="Azərbaycan",AzTV HD
+https://tst.aztv.az/aztv/index.m3u8
+
+#EXTINF:0 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/IctimaiTV.png" group-title="Azərbaycan",İctimai TV HD
+https://stream.itv.az/itv/index.m3u8
+
+#EXTINF:0 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/IdmanTV.png" group-title="Azərbaycan",İdman TV HD
+https://tst.aztv.az/idman/index.m3u8
+
+#EXTINF:0 tvg-id="AzadTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ATV.png" group-title="Azərbaycan",ATV (Azad Azərbaycan)
+https://atv.live.az/atv/index.m3u8
+
+#EXTINF:0 tvg-id="ARB.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ARB.png" group-title="Azərbaycan",ARB TV
+https://stream.arbtv.az/arb/index.m3u8
+
+#EXTINF:0 tvg-id="ARB24.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ARB24.png" group-title="Azərbaycan",ARB 24
+https://stream.arb24.az/arb24/index.m3u8
+
+#EXTINF:0 tvg-id="XezerTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/XezerTV.png" group-title="Azərbaycan",Xəzər TV
+https://stream.xezertv.az/xezer/index.m3u8
+
+#EXTINF:0 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/MedeniyyetTV.png" group-title="Azərbaycan",Mədəniyyət TV
+https://tst.aztv.az/medeniyyet/index.m3u8
