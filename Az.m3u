@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/az/aztv.az.xml"
+
+#EXTINF:0 tvg-id="CBCSport.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/CBCSport.png" group-title="Azərbaycan",CBC Sport
+https://cbcs.live.az/cbcsport/index.m3u8
+
+#EXTINF:0 tvg-id="AZTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/AzTV.png" group-title="Azərbaycan",AzTV
+https://stream.aztv.az/aztv/index.m3u8
+
+#EXTINF:0 tvg-id="AzadTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ATV.png" group-title="Azərbaycan",Azad Azərbaycan (ATV)
+https://stream.atv.az/atv/index.m3u8
+
+#EXTINF:0 tvg-id="ARB24.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ARB24.png" group-title="Azərbaycan",ARB 24
+https://stream.arb24.az/arb24/index.m3u8
+
+#EXTINF:0 tvg-id="ARB.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/ARB.png" group-title="Azərbaycan",ARB TV
+https://stream.arbtv.az/arb/index.m3u8
+
+#EXTINF:0 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/IctimaiTV.png" group-title="Azərbaycan",İctimai TV
+https://stream.itv.az/itv/index.m3u8
+
+#EXTINF:0 tvg-id="XezerTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/XezerTV.png" group-title="Azərbaycan",Xəzər TV
+https://stream.xezertv.az/xezer/index.m3u8
+
+#EXTINF:0 tvg-id="SpaceTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/SpaceTV.png" group-title="Azərbaycan",Space TV
+https://stream.spacetv.az/space/index.m3u8
+
+#EXTINF:0 tvg-id="RealTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/RealTV.png" group-title="Azərbaycan",Real TV
+https://stream.realtv.az/real/index.m3u8
+
+#EXTINF:0 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/IdmanTV.png" group-title="Azərbaycan",İdman TV
+https://stream.idmantv.az/idman/index.m3u8
+
+#EXTINF:0 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/az/MedeniyyetTV.png" group-title="Azərbaycan",Mədəniyyət TV
+https://stream.medeniyyettv.az/medeniyyet/index.m3u8
