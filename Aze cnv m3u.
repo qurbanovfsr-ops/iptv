@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0, AZTV
+http://test.livetv.az/azerbaijan/azt.../playlist.m3u8
+#EXTINF:0, Azad Azerbaycan
+http://test.livetv.az/azerbaijan/atv.../playlist.m3u8
+#EXTINF:0, Xəzər
+http://test.livetv.az/azerbaijan/xaz.../playlist.m3u8
+#EXTINF:0, Real TV
+http://65.21.196.155/azerbaijan/real_2023/playlist.m3u8
+#EXTINF:0, İctimai
+http://test.livetv.az/azerbaijan/ict.../playlist.m3u8
+#EXTINF:0, Space AZ
+http://test.livetv.az/azerbaijan/spa.../playlist.m3u8
+#EXTINF:0, Dünya
+http://65.21.196.155/azerbaijan/duny.../playlist.m3u8
+#EXTINF:0, arb
+http://test.livetv.az/azerbaijan/arb.../playlist.m3u8
+#EXTINF:0, arb 24
+http://test.livetv.az/azerbaijan/24_.../playlist.m3u8
+#EXTINF:0, arb Günəş
+http://65.21.196.155/azerbaijan/gune.../playlist.m3u8
+#EXTINF:0, Mədəniyyət
+http://65.21.196.155/azerbaijan/mede.../playlist.m3u8
+#EXTINF:0, CBC AZ
+http://test.livetv.az/azerbaijan/cbc.../playlist.m3u8
+#EXTINF:0, CBC Sport HD
+http://test.livetv.az/azerbaijan/cbc.../playlist.m3u8
+#EXTINF:0, İDMAN HD
+http://test.livetv.az/azerbaijan/idm.../playlist.m3u8
