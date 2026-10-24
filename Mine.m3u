@@ -1,0 +1,79 @@
+#EXTM3U 
+EXTINF:0 type="stream" channe lId="-1" name="HTV GENCE" group="AZ  AZERBAYCAN", HTV FILIM XÁCMAZ 
+http:l/ctvbakuaz.xyz:8080/orxangence/eyvazusta/470891 #EXTINF:O type="stream" channelid="2550", Azad Azərbaycan http://flussonic.izone.az:80/azadazerbaycan/index.m3u8 
+#EXTINF:O type="stream" channe lId="829" name="AZAD AZERBAYCAN" group="AZ 0 AZERBAYCAN", AZAD AZERBAYCAN 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470852 
+#EXTINF:O type="stream" channelId="-1" name="AZAD AZERBAYCAN HD" aroup="AZ 00 AZERBAYCAN", AZAD AZERBAYCAN HD 
+http:/l/ctvbakuaz.xyz:8080/orxangence/eyvazusta/470851 
+#EXTINF:O type="stream" channe lid="-1"' name="XEZER TV" group="AZ o AZERBAYCAN", XEZER TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470841 
+#EXTINF:0 type="stream" channelid="-1" name="XEZER TV HD" group="AZ  AZERBAYCAN", XEZER TV HD 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470840 
+#EXTINF:o type="stream" channe lİd="-1" "' name="XEZER TV HD*" group="AZ CO AZERBAYCAN", XEZER TV HD* 
+#EXTINF:O type="stream" channelid="-1", Xəzər http://flussonic.izone.az:80/xezertv/index.m3u8 #EXTINF:O type="stream"channelId="830", xazar TV 
+http://f8cwq5dt.akciatv.ru/iptv/CNGYQL777HWV55/2199/index.m3u8 #EXTINF:O type="stream" channe lId="-i", ARB TV (Region TV) http://flussonic.izone. az:80/arb/index.m3u8 
+#EXTINF:0 type="stream" channe lId="1407",space TV http://flussonic.izone.az:80/spacetv/index.m3u8 #EXTINF:O type="stream" channe lId="-1",Real TV http:/lflussonic.izone.az:80/realtv/index.m3u8 #EXTINF:0 type="stream" channelId="641", AZTV http://flussonic.izone.az:80/aztv/index.m3u8 #EXTINF:o type="stream" channe lId="-1",Ictimai TV http://flussonic.izone.az:80/ictimaitv/index.m3u8 #EXTINF:0 type="stream" channe lId="823", Mədəniyyət TV http://flussonic.izone. az:80/medeniyyet/index.m3u8 #EXTINF:o type="'stream" channe lId="281", FTV HD 
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8 #EXTINF:O type="stream" channe lId="-1", Dunya TV 
+http://flussonic.izone.az:80/dunyatv/index.m3u8 #EXTINF:O type="stream" channelId="-1", ARB 24 http:/lflussonic.izone.az:80/arb24/index.m3u8 #EXTINF:0type="stream" channe lId="-1", ARB Gunesh http://flussonic.izone.az:80/arbgunesh/index.m3u8 #EXTINF:O type="stream" channe lId="-1", BAKU TV https://rtmp.baku.tv/live/bakutv_72op.m3u8 #EXTINF:O type="stream" channelId="-1", Kepez TV http://85.132.81.184:8080/arbkepez/live/index.m3u8 #EXTINF:O type="stream" channe lId="-1", İdman Azərbaycan http://flussonic.izone.az:80/idmanaz/index.m3u8 #EXTINF:O type="stream" channe lId="-1", CBC sport HD http://erlyvideo.izone.az:80/cbcsporthd/index. m3u8 #EXTINF:o type="stream" channelId="-1", MuzTv Azerbaycan http://flussonic.izone.az:80/muztvaz/index.m3u8 #EXTINF:o type="'stream" channe lId="888",TMB TV http://flussonic.izone.az:80/tmb/index.m3u8 #EXTINF:0 type="stream" channe lId="-1", AZ News TV 
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks,m3u8 #EXTINF:o type="stream" channe lId="-1", Alvin TV
+http://cdni0-alvinchannel.yayin.com.tr/alvinchanne l/alvinchannel/ chunklist w173010177.m3u8 
+#EXTINF:O type="stream" channe lId="2803" name="Fox", CBC TV AZERBAYCAN http://flussonic.izone. z:80/cbc/index.m3u8 
+EXTINF:O type"stream" channe LId=" -1" name="7/24 B0ZBASH PICTURES T۷" group="AZ4# AZERBAYCAN", 7/24 BOZBASH PICTURES TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/472308 
+#EXTINF:O type="stream" channe lid="-1"'name="CTV AZ" group="AZ ∞ AZERBAYCAN", CTVAZ http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/475374 
+#EXTINF:O type="stream" channelid="-1"' name="CTV SINEMA" group="AZ 0O AZERBAYCAN", CTV SINEMA 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/472310 
+#EXTINF:o type="stream" channe lid="-1" "' name="CTV YERLI" group="AZ O AZERBAYCAN", CTV YERLI 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/472309 
+#EXTINF:O type="stream" channe lİd="-1"name="CTV MUSIC" group="AZ  AZERBAYCAN", CTV MUSIC 
+http:/lctvbakuaz.xyz:8080/orxangence/eyvazusta/470901 
+#EXTINF:O type="stream" channe lİd="-1" name=' -"CBC HD" group="AZ  AZERBAYCAN", CBC http:/lctvbakuaz.xyz:8080/orxangence/eyvazusta/95371 
+#EXTINF:0 tvpe="stream" channelid="-1" name="ALVIN CHANNEL TV (MINGECEVIR)" group="AZ  AZERBAYCAN", ALVIN CHANNEL TV (MINGECEVIR) 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470899 
+#EXTINF:0 type="stream" channelid="-1" name="QAFQAZ TV" group="AZ 0 AZERBAYCAN", QAFQAZ TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470898 
+#EXTINE:O tvpe="stream" channelid="-1" name="APA TV" aroup="AZ 00 AZERBAYCAN" APATV http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470896 
+#EXTINF:0 type="stream" channe lId="-1" name="KONUL TV" group="AZ O AZERBAYCAN", KONUL TV 
+http:/lctvbakuaz.xyz:8080/orxangence/eyvazusta/470894 
+#EXTINF:O type="stream" channe lid="-1" name="106. 3FM" group="AZ  AZERBAYCAN", 106.3FM 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470895 
+#EXTINF:0 type="stream" channe lid="280" name="FTV" group="AZ 00 AZERBAYCAN", FTV http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470893 
+#EXTINF:O type="stream" channe lid="-1" name="SHOWPLUS TV" group="AZ  AZERBAYCAN", SHOWPLUS TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470892 
+#EXTINF:O type="stream" channe lid="-1" name="KANAL 52 AZ" group="AZ  AZERBAYCAN", KANAL52 AZ 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470890 
+#EXTINE:O type="stream" channelid="-1" name="AZ STAR TV" aroup="AZ 00 AZERBAYCAN". AZSTAR TN 
+http:Ictvbakuaz.xyz:8080/orxangence/eyvazusta/470889 
+#EXTINF:0 type="stream" channelId="-1 "' name="LIVE TV AZ" group="AZ  AZERBAYCAN", LIVE TV AZ 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470888 
+#EXTINF:O type="stream" channe lid="-1"' name="AL ZAHRA TV" group="AZ O AZERBAYCAN", AL ZAHRA TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470887 
+#EXTINF:O type="stream" channe lid="-1" "' name="QEBELE TV" group="AZ o AZERBAYCAN", QEBELE TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470886 
+#EXTINF:O type="stream" channe lId="-1 " name="AZAD SOZ TV" group="AZ  AZERBAYCAN",
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470885 
+#EXTINF:O type="stream" channe lid="-1" name="POPAZERI MUZIK" group="AZ " AZERBAYCAN", POPAZERI MUZIK 
+http:l//ctvbakuaz.xyz:8080/orxangence/eyvazusta/470δ84 
+#EXTINF:O type="stream" channe lid="-1"' name="TMB AZ" group="AZ  AZERBAYCAN", TMB AZ 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470828 
+#EXTINF:O type="stream" channelid="-1" name="SON UMID TV" group="AZ 00 AZERBAYCAN", SON UMID TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415124 
+#EXTINF:O type="stream" channe lid="-1" name="KANAL ON4" group="AZ ∞ AZERBAYCAN", KANAL ON4 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415119 
+#EXTINF:O type="stream" channe lid="-1' " name="AGRO TV AZERBAYCAN" group="AZ  AZERBAYCAN", AGRO TV AZERBAYCAN 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415118 
+#EXTINF:O type="stream" channe lid="-1" name="LIVE TV" group="AZ Co AZERBAYCAN" logo="https://4.bp.blogspot.com/-bwYVLP50YfW/Xek1F_L8IKI/AAAAAAAADpc/ 8S0oaHDVETEcatq icixCEWxyrYZUPL3gCLCBGASYHQ/s1600/livetv-az-tv.png", LIVE TV http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415117 
+#EXTINF:O type="stream" channelid="-1"' name="KONUL TV" group="AZ ∞0 AZERBAYCAN" Logo="https://yt3. googleusercontent. com/ytc/AGIKgqN5dRKcoz IaRrxxGmkNyb_uPOLsbyxGHur BLVi4QA=s900-C-k-cOX0offffff-no-rj", KONUL TV 
+http:ilctvbakuaz.xyz:8080/orxangence/eyvazusta/415113 
+#EXTINF:O type="stream" channelid="-1" name="GEMAZ TV" group="AZ 00 AZERBAYCAN" logo="https://mrtv.me/wp-content/uploads/2022/07/Gem-AZ.jpg", GEMAZ TV http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415112 
+#EXTINF:0 type="stream" channelid="-1 "'name="VASTOK TV" group="AZ  AZERBAYCAN" logo="https:l/picon.ml/vostok-tv.png", VASTOK TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415111 
+#EXTINF:0 type="stream" channe lId="-1" name="KEPEZ TV (GENCE)" group="Z 00 AZERBAYCAN" logo="https://1.bp.blogspot.com/-jNWYVTLGUY4/XdOPEJUwbpI/AAAAAAAADgo/ AYgxWssjZM4fICWC3M G7gWRnKLFXFGXQCLCBGASYHQ/s200/arb-kepez-%2Btv-ažerbaycan. png", KEPEZ TV (GENCE) 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415110 
+#EXTINF:o type="stream" channe lLId="-1" name="KANAL 35 NAXCIVAN" group="AZ 0 AZERBAYCAN"' logo="https://ive.ntv.az/kana135. png", KANAL 35 NAXCIVAN http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415109 
+#EXTINF:O type="stream" channe lId="-1" name="NAXCIVAN TV" group="AZ  AZERBAYCAN" logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%c3%A7%C4%B1van_Televiziyas %C4%B1_loqosu. png", NAXCIVAN TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415108 
+#EXTINF:O type="stream" channelid="-1" name="AN.T" group="AZ 0 AZERBAYCAN" logo="https:l/secure.qravatar.com/avatar/759a51d611de004ee2673c5bb81c28342 s=180&d=mm&r=g", AN.T 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/415103 
+ EXTINF: type="stream" channe LId" -1" name="AZNES T٧# group="AZ 0 AZERBAYCAN", AZNEWS TV 
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/295628
